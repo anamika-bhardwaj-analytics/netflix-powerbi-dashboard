@@ -30,7 +30,7 @@ To analyze Netflix data and identify patterns in content type, genre popularity,
 
 ## 📥 Download File
 - [Download PBIX File](netflixdashboard.pbix)
-- [Download Dataset](netflixdata.csv)
+- [Download Dataset](netflixdata.xslx)
 
 ## 💡 Conclusion
 This dashboard helps analyze content trends, understand genre popularity, and evaluate Netflix’s global distribution strategy.
